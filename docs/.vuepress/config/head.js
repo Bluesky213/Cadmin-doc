@@ -1,6 +1,6 @@
 // Head Config
 module.exports = [
-  ["link", { rel: "icon", href: "/logo/small.png" }],
+  ["link", { rel: "icon", href: "/logo/monitor-logo.png" }],
   ["meta", { name: "keywords", content: "eladmin,el-admin,eladmin官网,eladmin在线文档,eladmin学习" }],
   ["meta", { name: "theme-color", content: "#11a8cd" }],
   ["meta", { "http-equiv": "Content-Type", content: "text/html;charset=gb2312" }],

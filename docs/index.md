@@ -1,23 +1,23 @@
 ---
 home: true
-heroImage: /logo/logo.png
-heroText: ELADMIN 在线文档
-tagline: 一个简单且易上手的 Spring boot 后台管理框架，已发布 Mybatis-Plus 版本
+heroImage: /logo/monitor-logo.png
+heroText: Monitor 智能市场监测
+tagline: 一个简单且易上手的 量化交易 后台管理系统
 actionText: 快速开始 →
 actionLink: /pages/010101/
 bannerBg: none
 
 features:
-- title: 技术栈
-  details: 使用 SpringBoot、Jpa / Mybatis-Plus、Security、Redis、Vue 等主流技术开发。
-- title: 高效率
-  details: 前后端完全分离，项目简单可配，内置代码生成器，配置好信息就能一键生成前后端代码。
-- title: 易用性
-  details: 几乎可用于所有 Web 项目的开发，如 OA、Cms，网站后台管理、毕业设计项目等。
+- title: 市场方向
+  details: 支持 股票、外汇、彩票 等主流投机市场量化分析。
+- title: 量化辅助
+  details: 股票 模块支持自定义的涨跌幅、目标价位提醒，支持千股跌停提醒等功能，做您交易的得力助手。
+- title: 智能易用
+  details: 采用 简明、美观的可视化界面，提供交易实时观测、交易分析统计、网格参数配置等功能，帮助您解放双眼。
 postList: none
 ---
 
-<div style="margin-top: -10px;padding: 0">
+<!-- <div style="margin-top: -10px;padding: 0">
     <p align="center" style="color: #999;font-size: 13px;cursor: pointer;">
      <a href="https://www.mingdao.com/?s=utm_78&utm_source=eladmin&utm_medium=banner&utm_campaign=IT网站&utm_content=IT赋能业务" target="_blank">
         🌈 特别赞助
@@ -28,4 +28,4 @@ postList: none
         <img src="/images/banner/mdy_index.png" alt="明道云零代码构建平台" style="width: 400px;border-radius: 2px;">
       </a>
     </p>
-</div>
+</div> -->
