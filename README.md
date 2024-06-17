@@ -1,6 +1,6 @@
 # ELADMIN-DOC
 
-ELADMIN 文档源码
+Monitor智能市场监测 文档源码
 
 ## Build Setup
 ``` bash
@@ -15,7 +15,7 @@ npm run build
 ```
 
 ## License
-[Version 2.0](https://github.com/elunez/eladmin-doc/blob/master/LICENSE)
+[Version 2.0](https://github.com/Bluesky213/Cadmin-doc/blob/master/LICENSE)
 
 
 >Powered by [vuepress](https://vuepress.vuejs.org/zh/)
