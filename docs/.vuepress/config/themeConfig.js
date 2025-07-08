@@ -12,7 +12,7 @@ module.exports = {
   docsRepo: "elunez/eladmin-doc",
   docsDir: "docs",
   docsBranch: "master",
-  editLinks: true,
+  editLinks: false,
   editLinkText: "帮助我们改善此页面！",
 
   // Vdoing Theme Config
