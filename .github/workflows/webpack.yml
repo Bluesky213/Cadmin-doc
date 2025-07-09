@@ -41,7 +41,7 @@ jobs:
           password: ${{ secrets.SERVER0_PASSWORD }}
           port: 22
           source: "dist.zip"
-          target: "/root/webroot/doc-admin/dist.zip"
+          target: "/root/webroot/doc-admin/"
 
       # 使用 SSH 解压 dist.zip 并清理
       - name: Deploy to server
