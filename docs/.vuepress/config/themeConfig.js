@@ -9,7 +9,7 @@ module.exports = {
   searchMaxSuggestions: 10,
   lastUpdated: "上次更新",
 
-  docsRepo: "elunez/eladmin-doc",
+  docsRepo: "#",
   docsDir: "docs",
   docsBranch: "master",
   editLinks: false,
@@ -50,7 +50,7 @@ module.exports = {
     ]
   },
   footer: {
-    createYear: 2018,
+    createYear: 2023,
     copyrightInfo: [
       ' <a href="https://www.christopherchen.cn/" target=_blank>传送门</a>'
     ].join('')
