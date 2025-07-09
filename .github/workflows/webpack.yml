@@ -43,7 +43,7 @@ jobs:
           password: ${{ secrets.SERVER0_PASSWORD }}
           port: 22
           source: "docs/.vuepress/dist.zip"
-          target: "/root/webroot/doc-admin/"
+          target: "/root/webroot/doc-admin/dist.zip"
 
       # 使用 SSH 解压 dist.zip 并清理
       - name: Deploy to server
