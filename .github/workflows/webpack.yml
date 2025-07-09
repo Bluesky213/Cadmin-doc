@@ -30,7 +30,9 @@ jobs:
 
       # 压缩 dist 文件夹
       - name: Compress dist folder
-        run: zip -r dist.zip docs/.vuepress/dist/
+        run: |
+            cd docs/.vuepress
+            zip -r dist.zip dist
 
       # 使用 SCP 将 dist.zip 上传到服务器
       - name: Upload dist.zip to server.
