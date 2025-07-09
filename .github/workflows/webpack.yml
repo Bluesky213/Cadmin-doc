@@ -53,7 +53,7 @@ jobs:
           port: 22
           script: |
             cd /root/webroot/doc-admin
-            rm -rf dist
-            mv docs/.vuepress/dist.zip .
             unzip -o dist.zip
+            mv docs/.vuepress/dist.zip .
+            rm -rf dist
             rm dist.zip
