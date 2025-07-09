@@ -54,6 +54,8 @@ jobs:
           script: |
             cd /root/webroot/doc-admin
             unzip -o dist.zip
-            mv docs/.vuepress/dist.zip .
-            rm -rf dist
             rm dist.zip
+            rm -rf dist
+            mv docs/.vuepress/dist .
+
+
