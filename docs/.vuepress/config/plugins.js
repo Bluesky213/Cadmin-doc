@@ -43,7 +43,7 @@ module.exports = [
   ],
   [
   'sitemap', {
-      hostname: 'https://doc.christopherchen.cn' // 网站域名
+      hostname: 'https://doc.trademonitor.cn' // 网站域名
     }
   ]
 ];

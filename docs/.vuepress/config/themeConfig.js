@@ -52,7 +52,7 @@ module.exports = {
   footer: {
     createYear: 2023,
     copyrightInfo: [
-      ' <a href="https://www.christopherchen.cn/" target=_blank>传送门</a>'
+      ' <a href="https://www.trademonitor.cn/" target=_blank>传送门</a>'
     ].join('')
   },
 

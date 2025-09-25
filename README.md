@@ -4,7 +4,7 @@ Monitor智能市场监测 用户使用文档
 
 ## 在线地址
 
-https://doc.christopherchen.cn
+https://doc.trademonitor.cn
 
 QQ交流群：799904638
 
